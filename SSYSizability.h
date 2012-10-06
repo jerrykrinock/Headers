@@ -1,4 +1,3 @@
-
 enum SSYSizability_enum
 {
 	SSYSizabilityFixed,
