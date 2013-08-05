@@ -1,6 +1,7 @@
 enum SSYSizability_enum
 {
-	SSYSizabilityFixed,
+	SSYSizabilityUnknown = -1,
+    SSYSizabilityFixed,
 	SSYSizabilityCalculated,
 	SSYSizabilityUserSizable 
 } ;
