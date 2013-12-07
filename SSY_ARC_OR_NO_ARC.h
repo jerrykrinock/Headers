@@ -1,5 +1,5 @@
-#ifndef Declude_SSY_ARC_OR_NO_ARC_h
-#define Declude_SSY_ARC_OR_NO_ARC_h
+#ifndef SSY_ARC_OR_NO_ARC_h
+#define SSY_ARC_OR_NO_ARC_h
 
 #if MAC_OS_X_VERSION_MAX_ALLOWED < 1070
 #define NO_ARC 1
